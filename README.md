@@ -1,1 +1,2 @@
 # odin-recipes
+The purpose of this exercise it to set up a basic website consisting of various recipes.  The first stage it to build the html framework. It will be revisited in the future with styling.
